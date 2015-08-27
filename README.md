@@ -18,10 +18,10 @@ chrome 浏览器支持了桌面通知的功能，这种方式干净整洁，也�
   
     icon    显示logo
     title   标题
-    duration  持续时间 （好像没啥卵用）
+    duration  持续时间  默认3秒 （单位毫秒） 设置为0 则不自动关闭
     msg      内容
     onclick  对应事件
-    onclose  对应事件
+    onclose  对应事件 （如果定义自动关闭时也会触发）
   
 使用：
 
