@@ -24,6 +24,6 @@ chrome 浏览器支持了桌面通知的功能，这种方式干净整洁，也�
     onclose  对应事件
   
 使用：
-    Mytip.icon = "https://avatars2.githubusercontent.com/u/8414340?v=3&s=460"  //换logo
+                Mytip.icon = "https://avatars2.githubusercontent.com/u/8414340?v=3&s=460"  //换logo
 		Mytip.showTip("测试", "test");  //弹出通知
 
